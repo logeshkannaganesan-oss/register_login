@@ -55,9 +55,9 @@ WSGI_APPLICATION = 'AuthProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'authdb1',
+        'NAME': 'logesh',
         'USER': 'root',
-        'PASSWORD': 'Hasirama123@', # ⚠️ Replace with your actual MySQL password
+        'PASSWORD': 'logeshkanna', 
         'HOST': 'localhost',
         'PORT': '3306',
     }
